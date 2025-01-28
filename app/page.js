@@ -22,13 +22,20 @@ export default function Home() {
     let remainingValue = targetValue;
 
     for (const resistor of sortedResistors) {
-      while (remainingValue >= resistor.value) {
+      if (resistor.value === 0) continue; // Avoid division by zero or invalid resistors
+      let maxCount = Math.floor(remainingValue / resistor.value);
+
+      // Add resistors to the result while they contribute to reducing the remaining value
+      while (maxCount > 0 && remainingValue >= resistor.value) {
         resultResistors.push(resistor);
         remainingValue -= resistor.value;
+        maxCount--; // Decrement the number of times this resistor can fit
       }
-      if (remainingValue === 0) break;
+
+      if (remainingValue === 0) break; // Exit if we perfectly match the target
     }
 
+    // If there's still a remaining value, matching is impossible
     if (remainingValue > 0) {
       alert(`Unable to match the exact value with available resistors.`);
     }
