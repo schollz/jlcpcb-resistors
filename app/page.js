@@ -15,29 +15,29 @@ export default function Home() {
       return;
     }
 
-    // Sort resistors by value in descending order
-    const sortedResistors = [...resistors].sort((a, b) => b.value - a.value);
+    // Convert resistor object keys to numbers and sort in descending order
+    const sortedResistors = Object.keys(resistors)
+      .map(Number)
+      .sort((a, b) => b - a);
 
     const resultResistors = [];
     let remainingValue = targetValue;
 
-    for (const resistor of sortedResistors) {
-      if (resistor.value === 0) continue; // Avoid division by zero or invalid resistors
-      let maxCount = Math.floor(remainingValue / resistor.value);
+    for (const value of sortedResistors) {
+      if (value === 0) continue;
+      let maxCount = Math.floor(remainingValue / value);
 
-      // Add resistors to the result while they contribute to reducing the remaining value
-      while (maxCount > 0 && remainingValue >= resistor.value) {
-        resultResistors.push(resistor);
-        remainingValue -= resistor.value;
-        maxCount--; // Decrement the number of times this resistor can fit
+      while (maxCount > 0 && remainingValue >= value) {
+        resultResistors.push(...resistors[value]);
+        remainingValue -= value;
+        maxCount--;
       }
 
-      if (remainingValue === 0) break; // Exit if we perfectly match the target
+      if (remainingValue === 0) break;
     }
 
-    // If there's still a remaining value, matching is impossible
     if (remainingValue > 0) {
-      alert(`Unable to match the exact value with available resistors.`);
+      alert("Unable to match the exact value with available resistors.");
     }
 
     setResult(resultResistors);
@@ -70,11 +70,11 @@ export default function Home() {
             <h2 className="text-lg font-semibold text-gray-700 mb-4">
               Result:
             </h2>
-            <ul className="space-y-2">
+            <ul className="space-y-1">
               {result.map((resistor, index) => (
                 <li
                   key={index}
-                  className="flex justify-between items-center border-b border-gray-200 pb-2 last:border-b-0"
+                  className="flex justify-between items-center border-b border-gray-200 pb-1 last:border-b-0"
                 >
                   <a
                     href={resistor.href}
@@ -84,7 +84,7 @@ export default function Home() {
                   >
                     {resistor.manufacturer}
                   </a>
-                  <span className="text-gray-600">{resistor.value} Ω</span>
+                  <span className="text-gray-600">{resistor.value} Ω ({resistor.size})</span>
                 </li>
               ))}
             </ul>

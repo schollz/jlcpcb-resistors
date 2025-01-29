@@ -1,927 +1,1216 @@
-[
-  {
-    "manufacturer": "4D03WGJ0472T5E",
-    "href": "https://jlcpcb.com/partdetail/2332-4D03WGJ0472T5E/C1980",
-    "value": 4700.0
-  },
-  {
-    "manufacturer": "0402WGF2001TCE",
-    "href": "https://jlcpcb.com/partdetail/4516-0402WGF2001TCE/C4109",
-    "value": 2000.0
-  },
-  {
-    "manufacturer": "0603WAF1801T5E",
-    "href": "https://jlcpcb.com/partdetail/4584-0603WAF1801T5E/C4177",
-    "value": 1800.0
-  },
-  {
-    "manufacturer": "0603WAF2002T5E",
-    "href": "https://jlcpcb.com/partdetail/4591-0603WAF2002T5E/C4184",
-    "value": 20000.0
-  },
-  {
-    "manufacturer": "0603WAF2201T5E",
-    "href": "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190",
-    "value": 2200.0
-  },
-  {
-    "manufacturer": "0603WAF3001T5E",
-    "href": "https://jlcpcb.com/partdetail/4618-0603WAF3001T5E/C4211",
-    "value": 3000.0
-  },
-  {
-    "manufacturer": "0603WAF3302T5E",
-    "href": "https://jlcpcb.com/partdetail/4623-0603WAF3302T5E/C4216",
-    "value": 33000.0
-  },
-  {
-    "manufacturer": "0603WAF6201T5E",
-    "href": "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260",
-    "value": 6200.0
-  },
-  {
-    "manufacturer": "0603WAF750JT5E",
-    "href": "https://jlcpcb.com/partdetail/4682-0603WAF750JT5E/C4275",
-    "value": 75.0
-  },
-  {
-    "manufacturer": "0805W8F1501T5E",
-    "href": "https://jlcpcb.com/partdetail/4717-0805W8F1501T5E/C4310",
-    "value": 1500.0
-  },
-  {
-    "manufacturer": "0805W8F2002T5E",
-    "href": "https://jlcpcb.com/partdetail/4735-0805W8F2002T5E/C4328",
-    "value": 20000.0
-  },
-  {
-    "manufacturer": "0805W8F5601T5E",
-    "href": "https://jlcpcb.com/partdetail/4789-0805W8F5601T5E/C4382",
-    "value": 5600.0
-  },
-  {
-    "manufacturer": "1206W4F1001T5E",
-    "href": "https://jlcpcb.com/partdetail/4817-1206W4F1001T5E/C4410",
-    "value": 1000.0
-  },
-  {
-    "manufacturer": "0603WAF1005T5E",
-    "href": "https://jlcpcb.com/partdetail/7726-0603WAF1005T5E/C7250",
-    "value": 10000000.0
-  },
-  {
-    "manufacturer": "0603WAF2000T5E",
-    "href": "https://jlcpcb.com/partdetail/8708-0603WAF2000T5E/C8218",
-    "value": 200.0
-  },
-  {
-    "manufacturer": "0402WGF1001TCE",
-    "href": "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702",
-    "value": 1000.0
-  },
-  {
-    "manufacturer": "0603WAF2701T5E",
-    "href": "https://jlcpcb.com/partdetail/13814-0603WAF2701T5E/C13167",
-    "value": 2700.0
-  },
-  {
-    "manufacturer": "0402WGF0000TCE",
-    "href": "https://jlcpcb.com/partdetail/17853-0402WGF0000TCE/C17168",
-    "value": 0.0
-  },
-  {
-    "manufacturer": "0805W8F1201T5E",
-    "href": "https://jlcpcb.com/partdetail/18067-0805W8F1201T5E/C17379",
-    "value": 1200.0
-  },
-  {
-    "manufacturer": "0805W8F1000T5E",
-    "href": "https://jlcpcb.com/partdetail/18096-0805W8F1000T5E/C17408",
-    "value": 100.0
-  },
-  {
-    "manufacturer": "0805W8F1002T5E",
-    "href": "https://jlcpcb.com/partdetail/18102-0805W8F1002T5E/C17414",
-    "value": 10000.0
-  },
-  {
-    "manufacturer": "0805W8F100JT5E",
-    "href": "https://jlcpcb.com/partdetail/18103-0805W8F100JT5E/C17415",
-    "value": 10.0
-  },
-  {
-    "manufacturer": "0805W8F1200T5E",
-    "href": "https://jlcpcb.com/partdetail/18125-0805W8F1200T5E/C17437",
-    "value": 120.0
-  },
-  {
-    "manufacturer": "0805W8F1202T5E",
-    "href": "https://jlcpcb.com/partdetail/18132-0805W8F1202T5E/C17444",
-    "value": 12000.0
-  },
-  {
-    "manufacturer": "0805W8F1503T5E",
-    "href": "https://jlcpcb.com/partdetail/18158-0805W8F1503T5E/C17470",
-    "value": 150000.0
-  },
-  {
-    "manufacturer": "0805W8F1500T5E",
-    "href": "https://jlcpcb.com/partdetail/18159-0805W8F1500T5E/C17471",
-    "value": 150.0
-  },
-  {
-    "manufacturer": "0805W8F1502T5E",
-    "href": "https://jlcpcb.com/partdetail/18163-0805W8F1502T5E/C17475",
-    "value": 15000.0
-  },
-  {
-    "manufacturer": "0805W8F0000T5E",
-    "href": "https://jlcpcb.com/partdetail/18165-0805W8F0000T5E/C17477",
-    "value": 0.0
-  },
-  {
-    "manufacturer": "0805W8F1001T5E",
-    "href": "https://jlcpcb.com/partdetail/18201-0805W8F1001T5E/C17513",
-    "value": 1000.0
-  },
-  {
-    "manufacturer": "0805W8F1004T5E",
-    "href": "https://jlcpcb.com/partdetail/18202-0805W8F1004T5E/C17514",
-    "value": 1000000.0
-  },
-  {
-    "manufacturer": "0805W8F2201T5E",
-    "href": "https://jlcpcb.com/partdetail/18208-0805W8F2201T5E/C17520",
-    "value": 2200.0
-  },
-  {
-    "manufacturer": "0805W8F220KT5E",
-    "href": "https://jlcpcb.com/partdetail/18209-0805W8F220KT5E/C17521",
-    "value": 2.2
-  },
-  {
-    "manufacturer": "0805W8F2401T5E",
-    "href": "https://jlcpcb.com/partdetail/18214-0805W8F2401T5E/C17526",
-    "value": 2400.0
-  },
-  {
-    "manufacturer": "0805W8F2701T5E",
-    "href": "https://jlcpcb.com/partdetail/18218-0805W8F2701T5E/C17530",
-    "value": 2700.0
-  },
-  {
-    "manufacturer": "0805W8F2003T5E",
-    "href": "https://jlcpcb.com/partdetail/18227-0805W8F2003T5E/C17539",
-    "value": 200000.0
-  },
-  {
-    "manufacturer": "0805W8F2000T5E",
-    "href": "https://jlcpcb.com/partdetail/18228-0805W8F2000T5E/C17540",
-    "value": 200.0
-  },
-  {
-    "manufacturer": "0805W8F200JT5E",
-    "href": "https://jlcpcb.com/partdetail/18232-0805W8F200JT5E/C17544",
-    "value": 20.0
-  },
-  {
-    "manufacturer": "0805W8F2203T5E",
-    "href": "https://jlcpcb.com/partdetail/18244-0805W8F2203T5E/C17556",
-    "value": 220000.0
-  },
-  {
-    "manufacturer": "0805W8F2200T5E",
-    "href": "https://jlcpcb.com/partdetail/18245-0805W8F2200T5E/C17557",
-    "value": 220.0
-  },
-  {
-    "manufacturer": "0805W8F2202T5E",
-    "href": "https://jlcpcb.com/partdetail/18248-0805W8F2202T5E/C17560",
-    "value": 22000.0
-  },
-  {
-    "manufacturer": "0805W8F220JT5E",
-    "href": "https://jlcpcb.com/partdetail/18249-0805W8F220JT5E/C17561",
-    "value": 22.0
-  },
-  {
-    "manufacturer": "0805W8F2402T5E",
-    "href": "https://jlcpcb.com/partdetail/18263-0805W8F2402T5E/C17575",
-    "value": 24000.0
-  },
-  {
-    "manufacturer": "0805W8F2702T5E",
-    "href": "https://jlcpcb.com/partdetail/18281-0805W8F2702T5E/C17593",
-    "value": 27000.0
-  },
-  {
-    "manufacturer": "0805W8F2001T5E",
-    "href": "https://jlcpcb.com/partdetail/18292-0805W8F2001T5E/C17604",
-    "value": 2000.0
-  },
-  {
-    "manufacturer": "0805W8F3901T5E",
-    "href": "https://jlcpcb.com/partdetail/18302-0805W8F3901T5E/C17614",
-    "value": 3900.0
-  },
-  {
-    "manufacturer": "0805W8F3000T5E",
-    "href": "https://jlcpcb.com/partdetail/18305-0805W8F3000T5E/C17617",
-    "value": 300.0
-  },
-  {
-    "manufacturer": "0805W8F3002T5E",
-    "href": "https://jlcpcb.com/partdetail/18309-0805W8F3002T5E/C17621",
-    "value": 30000.0
-  },
-  {
-    "manufacturer": "0805W8F3300T5E",
-    "href": "https://jlcpcb.com/partdetail/18318-0805W8F3300T5E/C17630",
-    "value": 330.0
-  },
-  {
-    "manufacturer": "0805W8F3302T5E",
-    "href": "https://jlcpcb.com/partdetail/18321-0805W8F3302T5E/C17633",
-    "value": 33000.0
-  },
-  {
-    "manufacturer": "0805W8F330JT5E",
-    "href": "https://jlcpcb.com/partdetail/18322-0805W8F330JT5E/C17634",
-    "value": 33.0
-  },
-  {
-    "manufacturer": "0805W8F3900T5E",
-    "href": "https://jlcpcb.com/partdetail/18343-0805W8F3900T5E/C17655",
-    "value": 390.0
-  },
-  {
-    "manufacturer": "0805W8F3001T5E",
-    "href": "https://jlcpcb.com/partdetail/18349-0805W8F3001T5E/C17661",
-    "value": 3000.0
-  },
-  {
-    "manufacturer": "0805W8F4701T5E",
-    "href": "https://jlcpcb.com/partdetail/18361-0805W8F4701T5E/C17673",
-    "value": 4700.0
-  },
-  {
-    "manufacturer": "0805W8F470KT5E",
-    "href": "https://jlcpcb.com/partdetail/18363-0805W8F470KT5E/C17675",
-    "value": 4.7
-  },
-  {
-    "manufacturer": "0805W8F4703T5E",
-    "href": "https://jlcpcb.com/partdetail/18397-0805W8F4703T5E/C17709",
-    "value": 470000.0
-  },
-  {
-    "manufacturer": "0805W8F4700T5E",
-    "href": "https://jlcpcb.com/partdetail/18398-0805W8F4700T5E/C17710",
-    "value": 470.0
-  },
-  {
-    "manufacturer": "0805W8F4702T5E",
-    "href": "https://jlcpcb.com/partdetail/18401-0805W8F4702T5E/C17713",
-    "value": 47000.0
-  },
-  {
-    "manufacturer": "0805W8F470JT5E",
-    "href": "https://jlcpcb.com/partdetail/18402-0805W8F470JT5E/C17714",
-    "value": 47.0
-  },
-  {
-    "manufacturer": "0805W8F499JT5E",
-    "href": "https://jlcpcb.com/partdetail/18408-0805W8F499JT5E/C17720",
-    "value": 49.9
-  },
-  {
-    "manufacturer": "0805W8F510KT5E",
-    "href": "https://jlcpcb.com/partdetail/18412-0805W8F510KT5E/C17724",
-    "value": 5.1
-  },
-  {
-    "manufacturer": "0805W8F5100T5E",
-    "href": "https://jlcpcb.com/partdetail/18422-0805W8F5100T5E/C17734",
-    "value": 510.0
-  },
-  {
-    "manufacturer": "0805W8F5102T5E",
-    "href": "https://jlcpcb.com/partdetail/18425-0805W8F5102T5E/C17737",
-    "value": 51000.0
-  },
-  {
-    "manufacturer": "0805W8F510JT5E",
-    "href": "https://jlcpcb.com/partdetail/18426-0805W8F510JT5E/C17738",
-    "value": 51.0
-  },
-  {
-    "manufacturer": "0805W8F6801T5E",
-    "href": "https://jlcpcb.com/partdetail/18460-0805W8F6801T5E/C17772",
-    "value": 6800.0
-  },
-  {
-    "manufacturer": "0805W8F6800T5E",
-    "href": "https://jlcpcb.com/partdetail/18486-0805W8F6800T5E/C17798",
-    "value": 680.0
-  },
-  {
-    "manufacturer": "0805W8F6802T5E",
-    "href": "https://jlcpcb.com/partdetail/18489-0805W8F6802T5E/C17801",
-    "value": 68000.0
-  },
-  {
-    "manufacturer": "0805W8F8201T5E",
-    "href": "https://jlcpcb.com/partdetail/18516-0805W8F8201T5E/C17828",
-    "value": 8200.0
-  },
-  {
-    "manufacturer": "1206W4F3000T5E",
-    "href": "https://jlcpcb.com/partdetail/18575-1206W4F3000T5E/C17887",
-    "value": 300.0
-  },
-  {
-    "manufacturer": "1206W4F0000T5E",
-    "href": "https://jlcpcb.com/partdetail/18576-1206W4F0000T5E/C17888",
-    "value": 0.0
-  },
-  {
-    "manufacturer": "1206W4F1003T5E",
-    "href": "https://jlcpcb.com/partdetail/18588-1206W4F1003T5E/C17900",
-    "value": 100000.0
-  },
-  {
-    "manufacturer": "1206W4F1000T5E",
-    "href": "https://jlcpcb.com/partdetail/18589-1206W4F1000T5E/C17901",
-    "value": 100.0
-  },
-  {
-    "manufacturer": "1206W4F1002T5E",
-    "href": "https://jlcpcb.com/partdetail/18590-1206W4F1002T5E/C17902",
-    "value": 10000.0
-  },
-  {
-    "manufacturer": "1206W4F100JT5E",
-    "href": "https://jlcpcb.com/partdetail/18591-1206W4F100JT5E/C17903",
-    "value": 10.0
-  },
-  {
-    "manufacturer": "1206W4F1200T5E",
-    "href": "https://jlcpcb.com/partdetail/18597-1206W4F1200T5E/C17909",
-    "value": 120.0
-  },
-  {
-    "manufacturer": "1206W4F1004T5E",
-    "href": "https://jlcpcb.com/partdetail/18615-1206W4F1004T5E/C17927",
-    "value": 1000000.0
-  },
-  {
-    "manufacturer": "1206W4F100KT5E",
-    "href": "https://jlcpcb.com/partdetail/18616-1206W4F100KT5E/C17928",
-    "value": 1.0
-  },
-  {
-    "manufacturer": "1206W4F4701T5E",
-    "href": "https://jlcpcb.com/partdetail/18624-1206W4F4701T5E/C17936",
-    "value": 4700.0
-  },
-  {
-    "manufacturer": "1206W4F2001T5E",
-    "href": "https://jlcpcb.com/partdetail/18632-1206W4F2001T5E/C17944",
-    "value": 2000.0
-  },
-  {
-    "manufacturer": "1206W4F200JT5E",
-    "href": "https://jlcpcb.com/partdetail/18643-1206W4F200JT5E/C17955",
-    "value": 20.0
-  },
-  {
-    "manufacturer": "1206W4F220JT5E",
-    "href": "https://jlcpcb.com/partdetail/18646-1206W4F220JT5E/C17958",
-    "value": 22.0
-  },
-  {
-    "manufacturer": "4D03WGJ0102T5E",
-    "href": "https://jlcpcb.com/partdetail/20907-4D03WGJ0102T5E/C20197",
-    "value": 1000.0
-  },
-  {
-    "manufacturer": "0603WAF0000T5E",
-    "href": "https://jlcpcb.com/partdetail/21903-0603WAF0000T5E/C21189",
-    "value": 0.0
-  },
-  {
-    "manufacturer": "0603WAF1001T5E",
-    "href": "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190",
-    "value": 1000.0
-  },
-  {
-    "manufacturer": "0603WAF1201T5E",
-    "href": "https://jlcpcb.com/partdetail/23492-0603WAF1201T5E/C22765",
-    "value": 1200.0
-  },
-  {
-    "manufacturer": "0603WAF1000T5E",
-    "href": "https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775",
-    "value": 100.0
-  },
-  {
-    "manufacturer": "0603WAF1200T5E",
-    "href": "https://jlcpcb.com/partdetail/23514-0603WAF1200T5E/C22787",
-    "value": 120.0
-  },
-  {
-    "manufacturer": "0603WAF1202T5E",
-    "href": "https://jlcpcb.com/partdetail/23517-0603WAF1202T5E/C22790",
-    "value": 12000.0
-  },
-  {
-    "manufacturer": "0603WAF1302T5E",
-    "href": "https://jlcpcb.com/partdetail/23524-0603WAF1302T5E/C22797",
-    "value": 13000.0
-  },
-  {
-    "manufacturer": "0603WAF1503T5E",
-    "href": "https://jlcpcb.com/partdetail/23534-0603WAF1503T5E/C22807",
-    "value": 150000.0
-  },
-  {
-    "manufacturer": "0603WAF1500T5E",
-    "href": "https://jlcpcb.com/partdetail/23535-0603WAF1500T5E/C22808",
-    "value": 150.0
-  },
-  {
-    "manufacturer": "0603WAF1502T5E",
-    "href": "https://jlcpcb.com/partdetail/23536-0603WAF1502T5E/C22809",
-    "value": 15000.0
-  },
-  {
-    "manufacturer": "0603WAF1501T5E",
-    "href": "https://jlcpcb.com/partdetail/23570-0603WAF1501T5E/C22843",
-    "value": 1500.0
-  },
-  {
-    "manufacturer": "0603WAF100JT5E",
-    "href": "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859",
-    "value": 10.0
-  },
-  {
-    "manufacturer": "0603WAF1004T5E",
-    "href": "https://jlcpcb.com/partdetail/23662-0603WAF1004T5E/C22935",
-    "value": 1000000.0
-  },
-  {
-    "manufacturer": "0603WAF100KT5E",
-    "href": "https://jlcpcb.com/partdetail/23663-0603WAF100KT5E/C22936",
-    "value": 1.0
-  },
-  {
-    "manufacturer": "0603WAF220KT5E",
-    "href": "https://jlcpcb.com/partdetail/23666-0603WAF220KT5E/C22939",
-    "value": 2.2
-  },
-  {
-    "manufacturer": "0603WAF2401T5E",
-    "href": "https://jlcpcb.com/partdetail/23667-0603WAF2401T5E/C22940",
-    "value": 2400.0
-  },
-  {
-    "manufacturer": "0603WAF200JT5E",
-    "href": "https://jlcpcb.com/partdetail/23677-0603WAF200JT5E/C22950",
-    "value": 20.0
-  },
-  {
-    "manufacturer": "0603WAF2203T5E",
-    "href": "https://jlcpcb.com/partdetail/23688-0603WAF2203T5E/C22961",
-    "value": 220000.0
-  },
-  {
-    "manufacturer": "0603WAF2200T5E",
-    "href": "https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962",
-    "value": 220.0
-  },
-  {
-    "manufacturer": "0603WAF2700T5E",
-    "href": "https://jlcpcb.com/partdetail/23693-0603WAF2700T5E/C22966",
-    "value": 270.0
-  },
-  {
-    "manufacturer": "0603WAF2702T5E",
-    "href": "https://jlcpcb.com/partdetail/23694-0603WAF2702T5E/C22967",
-    "value": 27000.0
-  },
-  {
-    "manufacturer": "0603WAF2001T5E",
-    "href": "https://jlcpcb.com/partdetail/23702-0603WAF2001T5E/C22975",
-    "value": 2000.0
-  },
-  {
-    "manufacturer": "0603WAF2004T5E",
-    "href": "https://jlcpcb.com/partdetail/23703-0603WAF2004T5E/C22976",
-    "value": 2000000.0
-  },
-  {
-    "manufacturer": "0603WAF200KT5E",
-    "href": "https://jlcpcb.com/partdetail/23704-0603WAF200KT5E/C22977",
-    "value": 2.0
-  },
-  {
-    "manufacturer": "0603WAF3301T5E",
-    "href": "https://jlcpcb.com/partdetail/23705-0603WAF3301T5E/C22978",
-    "value": 3300.0
-  },
-  {
-    "manufacturer": "0603WAF3601T5E",
-    "href": "https://jlcpcb.com/partdetail/23707-0603WAF3601T5E/C22980",
-    "value": 3600.0
-  },
-  {
-    "manufacturer": "0603WAF3002T5E",
-    "href": "https://jlcpcb.com/partdetail/23711-0603WAF3002T5E/C22984",
-    "value": 30000.0
-  },
-  {
-    "manufacturer": "0603WAF3901T5E",
-    "href": "https://jlcpcb.com/partdetail/23745-0603WAF3901T5E/C23018",
-    "value": 3900.0
-  },
-  {
-    "manufacturer": "0603WAF3003T5E",
-    "href": "https://jlcpcb.com/partdetail/23751-0603WAF3003T5E/C23024",
-    "value": 300000.0
-  },
-  {
-    "manufacturer": "0603WAF3000T5E",
-    "href": "https://jlcpcb.com/partdetail/23752-0603WAF3000T5E/C23025",
-    "value": 300.0
-  },
-  {
-    "manufacturer": "0603WAF4991T5E",
-    "href": "https://jlcpcb.com/partdetail/23773-0603WAF4991T5E/C23046",
-    "value": 4990.0
-  },
-  {
-    "manufacturer": "0603WAF3303T5E",
-    "href": "https://jlcpcb.com/partdetail/23864-0603WAF3303T5E/C23137",
-    "value": 330000.0
-  },
-  {
-    "manufacturer": "0603WAF3300T5E",
-    "href": "https://jlcpcb.com/partdetail/23865-0603WAF3300T5E/C23138",
-    "value": 330.0
-  },
-  {
-    "manufacturer": "0603WAF330JT5E",
-    "href": "https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140",
-    "value": 33.0
-  },
-  {
-    "manufacturer": "0603WAF3900T5E",
-    "href": "https://jlcpcb.com/partdetail/23878-0603WAF3900T5E/C23151",
-    "value": 390.0
-  },
-  {
-    "manufacturer": "0603WAF3902T5E",
-    "href": "https://jlcpcb.com/partdetail/23880-0603WAF3902T5E/C23153",
-    "value": 39000.0
-  },
-  {
-    "manufacturer": "0603WAF4701T5E",
-    "href": "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162",
-    "value": 4700.0
-  },
-  {
-    "manufacturer": "0603WAF470KT5E",
-    "href": "https://jlcpcb.com/partdetail/23891-0603WAF470KT5E/C23164",
-    "value": 4.7
-  },
-  {
-    "manufacturer": "0603WAF4703T5E",
-    "href": "https://jlcpcb.com/partdetail/23905-0603WAF4703T5E/C23178",
-    "value": 470000.0
-  },
-  {
-    "manufacturer": "0603WAF4700T5E",
-    "href": "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179",
-    "value": 470.0
-  },
-  {
-    "manufacturer": "0603WAF470JT5E",
-    "href": "https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182",
-    "value": 47.0
-  },
-  {
-    "manufacturer": "0603WAF4992T5E",
-    "href": "https://jlcpcb.com/partdetail/23911-0603WAF4992T5E/C23184",
-    "value": 49900.0
-  },
-  {
-    "manufacturer": "0603WAF499JT5E",
-    "href": "https://jlcpcb.com/partdetail/23912-0603WAF499JT5E/C23185",
-    "value": 49.9
-  },
-  {
-    "manufacturer": "0603WAF5101T5E",
-    "href": "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186",
-    "value": 5100.0
-  },
-  {
-    "manufacturer": "0603WAF5601T5E",
-    "href": "https://jlcpcb.com/partdetail/23916-0603WAF5601T5E/C23189",
-    "value": 5600.0
-  },
-  {
-    "manufacturer": "0603WAF5103T5E",
-    "href": "https://jlcpcb.com/partdetail/23919-0603WAF5103T5E/C23192",
-    "value": 510000.0
-  },
-  {
-    "manufacturer": "0603WAF5100T5E",
-    "href": "https://jlcpcb.com/partdetail/23920-0603WAF5100T5E/C23193",
-    "value": 510.0
-  },
-  {
-    "manufacturer": "0603WAF5102T5E",
-    "href": "https://jlcpcb.com/partdetail/23923-0603WAF5102T5E/C23196",
-    "value": 51000.0
-  },
-  {
-    "manufacturer": "0603WAF510JT5E",
-    "href": "https://jlcpcb.com/partdetail/23924-0603WAF510JT5E/C23197",
-    "value": 51.0
-  },
-  {
-    "manufacturer": "0603WAF5600T5E",
-    "href": "https://jlcpcb.com/partdetail/23931-0603WAF5600T5E/C23204",
-    "value": 560.0
-  },
-  {
-    "manufacturer": "0603WAF5602T5E",
-    "href": "https://jlcpcb.com/partdetail/23933-0603WAF5602T5E/C23206",
-    "value": 56000.0
-  },
-  {
-    "manufacturer": "0603WAF6801T5E",
-    "href": "https://jlcpcb.com/partdetail/23939-0603WAF6801T5E/C23212",
-    "value": 6800.0
-  },
-  {
-    "manufacturer": "0603WAF6800T5E",
-    "href": "https://jlcpcb.com/partdetail/23955-0603WAF6800T5E/C23228",
-    "value": 680.0
-  },
-  {
-    "manufacturer": "0603WAF6802T5E",
-    "href": "https://jlcpcb.com/partdetail/23958-0603WAF6802T5E/C23231",
-    "value": 68000.0
-  },
-  {
-    "manufacturer": "0603WAF7501T5E",
-    "href": "https://jlcpcb.com/partdetail/23961-0603WAF7501T5E/C23234",
-    "value": 7500.0
-  },
-  {
-    "manufacturer": "0603WAF7502T5E",
-    "href": "https://jlcpcb.com/partdetail/23969-0603WAF7502T5E/C23242",
-    "value": 75000.0
-  },
-  {
-    "manufacturer": "0603WAF8200T5E",
-    "href": "https://jlcpcb.com/partdetail/23980-0603WAF8200T5E/C23253",
-    "value": 820.0
-  },
-  {
-    "manufacturer": "0603WAF8202T5E",
-    "href": "https://jlcpcb.com/partdetail/23981-0603WAF8202T5E/C23254",
-    "value": 82000.0
-  },
-  {
-    "manufacturer": "0603WAF9101T5E",
-    "href": "https://jlcpcb.com/partdetail/23987-0603WAF9101T5E/C23260",
-    "value": 9100.0
-  },
-  {
-    "manufacturer": "0603WAF220JT5E",
-    "href": "https://jlcpcb.com/partdetail/24078-0603WAF220JT5E/C23345",
-    "value": 22.0
-  },
-  {
-    "manufacturer": "0603WAF2402T5E",
-    "href": "https://jlcpcb.com/partdetail/24085-0603WAF2402T5E/C23352",
-    "value": 24000.0
-  },
-  {
-    "manufacturer": "0402WGF1000TCE",
-    "href": "https://jlcpcb.com/partdetail/25819-0402WGF1000TCE/C25076",
-    "value": 100.0
-  },
-  {
-    "manufacturer": "0402WGF100JTCE",
-    "href": "https://jlcpcb.com/partdetail/25820-0402WGF100JTCE/C25077",
-    "value": 10.0
-  },
-  {
-    "manufacturer": "0402WGF1200TCE",
-    "href": "https://jlcpcb.com/partdetail/25822-0402WGF1200TCE/C25079",
-    "value": 120.0
-  },
-  {
-    "manufacturer": "0402WGF2000TCE",
-    "href": "https://jlcpcb.com/partdetail/25830-0402WGF2000TCE/C25087",
-    "value": 200.0
-  },
-  {
-    "manufacturer": "0402WGF2200TCE",
-    "href": "https://jlcpcb.com/partdetail/25834-0402WGF2200TCE/C25091",
-    "value": 220.0
-  },
-  {
-    "manufacturer": "0402WGF220JTCE",
-    "href": "https://jlcpcb.com/partdetail/25835-0402WGF220JTCE/C25092",
-    "value": 22.0
-  },
-  {
-    "manufacturer": "0402WGF3300TCE",
-    "href": "https://jlcpcb.com/partdetail/25847-0402WGF3300TCE/C25104",
-    "value": 330.0
-  },
-  {
-    "manufacturer": "0402WGF330JTCE",
-    "href": "https://jlcpcb.com/partdetail/25848-0402WGF330JTCE/C25105",
-    "value": 33.0
-  },
-  {
-    "manufacturer": "0402WGF4700TCE",
-    "href": "https://jlcpcb.com/partdetail/25860-0402WGF4700TCE/C25117",
-    "value": 470.0
-  },
-  {
-    "manufacturer": "0402WGF499JTCE",
-    "href": "https://jlcpcb.com/partdetail/25863-0402WGF499JTCE/C25120",
-    "value": 49.9
-  },
-  {
-    "manufacturer": "0402WGF5100TCE",
-    "href": "https://jlcpcb.com/partdetail/25866-0402WGF5100TCE/C25123",
-    "value": 510.0
-  },
-  {
-    "manufacturer": "0603WAF510KT5E",
-    "href": "https://jlcpcb.com/partdetail/25940-0603WAF510KT5E/C25197",
-    "value": 5.1
-  },
-  {
-    "manufacturer": "0805W8F100KT5E",
-    "href": "https://jlcpcb.com/partdetail/26014-0805W8F100KT5E/C25271",
-    "value": 1.0
-  },
-  {
-    "manufacturer": "1206W4F100LT5E",
-    "href": "https://jlcpcb.com/partdetail/26077-1206W4F100LT5E/C25334",
-    "value": 0.1
-  },
-  {
-    "manufacturer": "0402WGF1003TCE",
-    "href": "https://jlcpcb.com/partdetail/26484-0402WGF1003TCE/C25741",
-    "value": 100000.0
-  },
-  {
-    "manufacturer": "0402WGF1002TCE",
-    "href": "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744",
-    "value": 10000.0
-  },
-  {
-    "manufacturer": "0402WGF1202TCE",
-    "href": "https://jlcpcb.com/partdetail/26495-0402WGF1202TCE/C25752",
-    "value": 12000.0
-  },
-  {
-    "manufacturer": "0402WGF1502TCE",
-    "href": "https://jlcpcb.com/partdetail/26499-0402WGF1502TCE/C25756",
-    "value": 15000.0
-  },
-  {
-    "manufacturer": "0402WGF2003TCE",
-    "href": "https://jlcpcb.com/partdetail/26507-0402WGF2003TCE/C25764",
-    "value": 200000.0
-  },
-  {
-    "manufacturer": "0402WGF2002TCE",
-    "href": "https://jlcpcb.com/partdetail/26508-0402WGF2002TCE/C25765",
-    "value": 20000.0
-  },
-  {
-    "manufacturer": "0402WGF2202TCE",
-    "href": "https://jlcpcb.com/partdetail/26511-0402WGF2202TCE/C25768",
-    "value": 22000.0
-  },
-  {
-    "manufacturer": "0402WGF3302TCE",
-    "href": "https://jlcpcb.com/partdetail/26522-0402WGF3302TCE/C25779",
-    "value": 33000.0
-  },
-  {
-    "manufacturer": "0402WGF4702TCE",
-    "href": "https://jlcpcb.com/partdetail/26535-0402WGF4702TCE/C25792",
-    "value": 47000.0
-  },
-  {
-    "manufacturer": "0402WGF5102TCE",
-    "href": "https://jlcpcb.com/partdetail/26537-0402WGF5102TCE/C25794",
-    "value": 51000.0
-  },
-  {
-    "manufacturer": "0603WAF1003T5E",
-    "href": "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803",
-    "value": 100000.0
-  },
-  {
-    "manufacturer": "0603WAF1002T5E",
-    "href": "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804",
-    "value": 10000.0
-  },
-  {
-    "manufacturer": "0603WAF1203T5E",
-    "href": "https://jlcpcb.com/partdetail/26551-0603WAF1203T5E/C25808",
-    "value": 120000.0
-  },
-  {
-    "manufacturer": "0603WAF1802T5E",
-    "href": "https://jlcpcb.com/partdetail/26553-0603WAF1802T5E/C25810",
-    "value": 18000.0
-  },
-  {
-    "manufacturer": "0603WAF2003T5E",
-    "href": "https://jlcpcb.com/partdetail/26554-0603WAF2003T5E/C25811",
-    "value": 200000.0
-  },
-  {
-    "manufacturer": "0603WAF4702T5E",
-    "href": "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819",
-    "value": 47000.0
-  },
-  {
-    "manufacturer": "0402WGF1501TCE",
-    "href": "https://jlcpcb.com/partdetail/26610-0402WGF1501TCE/C25867",
-    "value": 1500.0
-  },
-  {
-    "manufacturer": "0402WGF2201TCE",
-    "href": "https://jlcpcb.com/partdetail/26622-0402WGF2201TCE/C25879",
-    "value": 2200.0
-  },
-  {
-    "manufacturer": "0402WGF3301TCE",
-    "href": "https://jlcpcb.com/partdetail/26633-0402WGF3301TCE/C25890",
-    "value": 3300.0
-  },
-  {
-    "manufacturer": "0402WGF4701TCE",
-    "href": "https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900",
-    "value": 4700.0
-  },
-  {
-    "manufacturer": "0402WGF5101TCE",
-    "href": "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905",
-    "value": 5100.0
-  },
-  {
-    "manufacturer": "0603WAF8201T5E",
-    "href": "https://jlcpcb.com/partdetail/26724-0603WAF8201T5E/C25981",
-    "value": 8200.0
-  },
-  {
-    "manufacturer": "0805W8F3301T5E",
-    "href": "https://jlcpcb.com/partdetail/26753-0805W8F3301T5E/C26010",
-    "value": 3300.0
-  },
-  {
-    "manufacturer": "0402WGF1004TCE",
-    "href": "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083",
-    "value": 1000000.0
-  },
-  {
-    "manufacturer": "0805W8F5101T5E",
-    "href": "https://jlcpcb.com/partdetail/28584-0805W8F5101T5E/C27834",
-    "value": 5100.0
-  },
-  {
-    "manufacturer": "0805W8F5600T5E",
-    "href": "https://jlcpcb.com/partdetail/29388-0805W8F5600T5E/C28636",
-    "value": 560.0
-  },
-  {
-    "manufacturer": "4D03WGJ0103T5E",
-    "href": "https://jlcpcb.com/partdetail/30472-4D03WGJ0103T5E/C29718",
-    "value": 10000.0
-  },
-  {
-    "manufacturer": "0603WAF2202T5E",
-    "href": "https://jlcpcb.com/partdetail/32812-0603WAF2202T5E/C31850",
-    "value": 22000.0
-  },
-  {
-    "manufacturer": "0805W8F1003T5E",
-    "href": "https://jlcpcb.com/partdetail/160838-0805W8F1003T5E/C149504",
-    "value": 100000.0
-  }
-]
+{
+  "4700": [
+    {
+      "manufacturer": "4D03WGJ0472T5E",
+      "href": "https://jlcpcb.com/partdetail/2332-4D03WGJ0472T5E/C1980",
+      "value": 4700.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F4701T5E",
+      "href": "https://jlcpcb.com/partdetail/18361-0805W8F4701T5E/C17673",
+      "value": 4700.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F4701T5E",
+      "href": "https://jlcpcb.com/partdetail/18624-1206W4F4701T5E/C17936",
+      "value": 4700.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF4701T5E",
+      "href": "https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162",
+      "value": 4700.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF4701TCE",
+      "href": "https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900",
+      "value": 4700.0,
+      "size": "0402"
+    }
+  ],
+  "2000": [
+    {
+      "manufacturer": "0402WGF2001TCE",
+      "href": "https://jlcpcb.com/partdetail/4516-0402WGF2001TCE/C4109",
+      "value": 2000.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0805W8F2001T5E",
+      "href": "https://jlcpcb.com/partdetail/18292-0805W8F2001T5E/C17604",
+      "value": 2000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F2001T5E",
+      "href": "https://jlcpcb.com/partdetail/18632-1206W4F2001T5E/C17944",
+      "value": 2000.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF2001T5E",
+      "href": "https://jlcpcb.com/partdetail/23702-0603WAF2001T5E/C22975",
+      "value": 2000.0,
+      "size": "0603"
+    }
+  ],
+  "1800": [
+    {
+      "manufacturer": "0603WAF1801T5E",
+      "href": "https://jlcpcb.com/partdetail/4584-0603WAF1801T5E/C4177",
+      "value": 1800.0,
+      "size": "0603"
+    }
+  ],
+  "20000": [
+    {
+      "manufacturer": "0603WAF2002T5E",
+      "href": "https://jlcpcb.com/partdetail/4591-0603WAF2002T5E/C4184",
+      "value": 20000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F2002T5E",
+      "href": "https://jlcpcb.com/partdetail/4735-0805W8F2002T5E/C4328",
+      "value": 20000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0402WGF2002TCE",
+      "href": "https://jlcpcb.com/partdetail/26508-0402WGF2002TCE/C25765",
+      "value": 20000.0,
+      "size": "0402"
+    }
+  ],
+  "2200": [
+    {
+      "manufacturer": "0603WAF2201T5E",
+      "href": "https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190",
+      "value": 2200.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F2201T5E",
+      "href": "https://jlcpcb.com/partdetail/18208-0805W8F2201T5E/C17520",
+      "value": 2200.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0402WGF2201TCE",
+      "href": "https://jlcpcb.com/partdetail/26622-0402WGF2201TCE/C25879",
+      "value": 2200.0,
+      "size": "0402"
+    }
+  ],
+  "3000": [
+    {
+      "manufacturer": "0603WAF3001T5E",
+      "href": "https://jlcpcb.com/partdetail/4618-0603WAF3001T5E/C4211",
+      "value": 3000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F3001T5E",
+      "href": "https://jlcpcb.com/partdetail/18349-0805W8F3001T5E/C17661",
+      "value": 3000.0,
+      "size": "0805"
+    }
+  ],
+  "33000": [
+    {
+      "manufacturer": "0603WAF3302T5E",
+      "href": "https://jlcpcb.com/partdetail/4623-0603WAF3302T5E/C4216",
+      "value": 33000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F3302T5E",
+      "href": "https://jlcpcb.com/partdetail/18321-0805W8F3302T5E/C17633",
+      "value": 33000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0402WGF3302TCE",
+      "href": "https://jlcpcb.com/partdetail/26522-0402WGF3302TCE/C25779",
+      "value": 33000.0,
+      "size": "0402"
+    }
+  ],
+  "6200": [
+    {
+      "manufacturer": "0603WAF6201T5E",
+      "href": "https://jlcpcb.com/partdetail/4667-0603WAF6201T5E/C4260",
+      "value": 6200.0,
+      "size": "0603"
+    }
+  ],
+  "75": [
+    {
+      "manufacturer": "0603WAF750JT5E",
+      "href": "https://jlcpcb.com/partdetail/4682-0603WAF750JT5E/C4275",
+      "value": 75.0,
+      "size": "0603"
+    }
+  ],
+  "1500": [
+    {
+      "manufacturer": "0805W8F1501T5E",
+      "href": "https://jlcpcb.com/partdetail/4717-0805W8F1501T5E/C4310",
+      "value": 1500.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF1501T5E",
+      "href": "https://jlcpcb.com/partdetail/23570-0603WAF1501T5E/C22843",
+      "value": 1500.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF1501TCE",
+      "href": "https://jlcpcb.com/partdetail/26610-0402WGF1501TCE/C25867",
+      "value": 1500.0,
+      "size": "0402"
+    }
+  ],
+  "5600": [
+    {
+      "manufacturer": "0805W8F5601T5E",
+      "href": "https://jlcpcb.com/partdetail/4789-0805W8F5601T5E/C4382",
+      "value": 5600.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF5601T5E",
+      "href": "https://jlcpcb.com/partdetail/23916-0603WAF5601T5E/C23189",
+      "value": 5600.0,
+      "size": "0603"
+    }
+  ],
+  "1000": [
+    {
+      "manufacturer": "1206W4F1001T5E",
+      "href": "https://jlcpcb.com/partdetail/4817-1206W4F1001T5E/C4410",
+      "value": 1000.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0402WGF1001TCE",
+      "href": "https://jlcpcb.com/partdetail/12256-0402WGF1001TCE/C11702",
+      "value": 1000.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0805W8F1001T5E",
+      "href": "https://jlcpcb.com/partdetail/18201-0805W8F1001T5E/C17513",
+      "value": 1000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "4D03WGJ0102T5E",
+      "href": "https://jlcpcb.com/partdetail/20907-4D03WGJ0102T5E/C20197",
+      "value": 1000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0603WAF1001T5E",
+      "href": "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190",
+      "value": 1000.0,
+      "size": "0603"
+    }
+  ],
+  "10000000": [
+    {
+      "manufacturer": "0603WAF1005T5E",
+      "href": "https://jlcpcb.com/partdetail/7726-0603WAF1005T5E/C7250",
+      "value": 10000000.0,
+      "size": "0603"
+    }
+  ],
+  "200": [
+    {
+      "manufacturer": "0603WAF2000T5E",
+      "href": "https://jlcpcb.com/partdetail/8708-0603WAF2000T5E/C8218",
+      "value": 200.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F2000T5E",
+      "href": "https://jlcpcb.com/partdetail/18228-0805W8F2000T5E/C17540",
+      "value": 200.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0402WGF2000TCE",
+      "href": "https://jlcpcb.com/partdetail/25830-0402WGF2000TCE/C25087",
+      "value": 200.0,
+      "size": "0402"
+    }
+  ],
+  "2700": [
+    {
+      "manufacturer": "0603WAF2701T5E",
+      "href": "https://jlcpcb.com/partdetail/13814-0603WAF2701T5E/C13167",
+      "value": 2700.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F2701T5E",
+      "href": "https://jlcpcb.com/partdetail/18218-0805W8F2701T5E/C17530",
+      "value": 2700.0,
+      "size": "0805"
+    }
+  ],
+  "0": [
+    {
+      "manufacturer": "1206W4F100LT5E",
+      "href": "https://jlcpcb.com/partdetail/26077-1206W4F100LT5E/C25334",
+      "value": 0.1,
+      "size": "1206"
+    }
+  ],
+  "1200": [
+    {
+      "manufacturer": "0805W8F1201T5E",
+      "href": "https://jlcpcb.com/partdetail/18067-0805W8F1201T5E/C17379",
+      "value": 1200.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF1201T5E",
+      "href": "https://jlcpcb.com/partdetail/23492-0603WAF1201T5E/C22765",
+      "value": 1200.0,
+      "size": "0603"
+    }
+  ],
+  "100": [
+    {
+      "manufacturer": "0805W8F1000T5E",
+      "href": "https://jlcpcb.com/partdetail/18096-0805W8F1000T5E/C17408",
+      "value": 100.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F1000T5E",
+      "href": "https://jlcpcb.com/partdetail/18589-1206W4F1000T5E/C17901",
+      "value": 100.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF1000T5E",
+      "href": "https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775",
+      "value": 100.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF1000TCE",
+      "href": "https://jlcpcb.com/partdetail/25819-0402WGF1000TCE/C25076",
+      "value": 100.0,
+      "size": "0402"
+    }
+  ],
+  "10000": [
+    {
+      "manufacturer": "0805W8F1002T5E",
+      "href": "https://jlcpcb.com/partdetail/18102-0805W8F1002T5E/C17414",
+      "value": 10000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F1002T5E",
+      "href": "https://jlcpcb.com/partdetail/18590-1206W4F1002T5E/C17902",
+      "value": 10000.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0402WGF1002TCE",
+      "href": "https://jlcpcb.com/partdetail/26487-0402WGF1002TCE/C25744",
+      "value": 10000.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0603WAF1002T5E",
+      "href": "https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804",
+      "value": 10000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "4D03WGJ0103T5E",
+      "href": "https://jlcpcb.com/partdetail/30472-4D03WGJ0103T5E/C29718",
+      "value": 10000.0,
+      "size": "0603"
+    }
+  ],
+  "10": [
+    {
+      "manufacturer": "0805W8F100JT5E",
+      "href": "https://jlcpcb.com/partdetail/18103-0805W8F100JT5E/C17415",
+      "value": 10.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F100JT5E",
+      "href": "https://jlcpcb.com/partdetail/18591-1206W4F100JT5E/C17903",
+      "value": 10.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF100JT5E",
+      "href": "https://jlcpcb.com/partdetail/23586-0603WAF100JT5E/C22859",
+      "value": 10.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF100JTCE",
+      "href": "https://jlcpcb.com/partdetail/25820-0402WGF100JTCE/C25077",
+      "value": 10.0,
+      "size": "0402"
+    }
+  ],
+  "120": [
+    {
+      "manufacturer": "0805W8F1200T5E",
+      "href": "https://jlcpcb.com/partdetail/18125-0805W8F1200T5E/C17437",
+      "value": 120.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F1200T5E",
+      "href": "https://jlcpcb.com/partdetail/18597-1206W4F1200T5E/C17909",
+      "value": 120.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF1200T5E",
+      "href": "https://jlcpcb.com/partdetail/23514-0603WAF1200T5E/C22787",
+      "value": 120.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF1200TCE",
+      "href": "https://jlcpcb.com/partdetail/25822-0402WGF1200TCE/C25079",
+      "value": 120.0,
+      "size": "0402"
+    }
+  ],
+  "12000": [
+    {
+      "manufacturer": "0805W8F1202T5E",
+      "href": "https://jlcpcb.com/partdetail/18132-0805W8F1202T5E/C17444",
+      "value": 12000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF1202T5E",
+      "href": "https://jlcpcb.com/partdetail/23517-0603WAF1202T5E/C22790",
+      "value": 12000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF1202TCE",
+      "href": "https://jlcpcb.com/partdetail/26495-0402WGF1202TCE/C25752",
+      "value": 12000.0,
+      "size": "0402"
+    }
+  ],
+  "150000": [
+    {
+      "manufacturer": "0805W8F1503T5E",
+      "href": "https://jlcpcb.com/partdetail/18158-0805W8F1503T5E/C17470",
+      "value": 150000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF1503T5E",
+      "href": "https://jlcpcb.com/partdetail/23534-0603WAF1503T5E/C22807",
+      "value": 150000.0,
+      "size": "0603"
+    }
+  ],
+  "150": [
+    {
+      "manufacturer": "0805W8F1500T5E",
+      "href": "https://jlcpcb.com/partdetail/18159-0805W8F1500T5E/C17471",
+      "value": 150.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF1500T5E",
+      "href": "https://jlcpcb.com/partdetail/23535-0603WAF1500T5E/C22808",
+      "value": 150.0,
+      "size": "0603"
+    }
+  ],
+  "15000": [
+    {
+      "manufacturer": "0805W8F1502T5E",
+      "href": "https://jlcpcb.com/partdetail/18163-0805W8F1502T5E/C17475",
+      "value": 15000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF1502T5E",
+      "href": "https://jlcpcb.com/partdetail/23536-0603WAF1502T5E/C22809",
+      "value": 15000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF1502TCE",
+      "href": "https://jlcpcb.com/partdetail/26499-0402WGF1502TCE/C25756",
+      "value": 15000.0,
+      "size": "0402"
+    }
+  ],
+  "1000000": [
+    {
+      "manufacturer": "0805W8F1004T5E",
+      "href": "https://jlcpcb.com/partdetail/18202-0805W8F1004T5E/C17514",
+      "value": 1000000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F1004T5E",
+      "href": "https://jlcpcb.com/partdetail/18615-1206W4F1004T5E/C17927",
+      "value": 1000000.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF1004T5E",
+      "href": "https://jlcpcb.com/partdetail/23662-0603WAF1004T5E/C22935",
+      "value": 1000000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF1004TCE",
+      "href": "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083",
+      "value": 1000000.0,
+      "size": "0402"
+    }
+  ],
+  "2": [
+    {
+      "manufacturer": "0603WAF220KT5E",
+      "href": "https://jlcpcb.com/partdetail/23666-0603WAF220KT5E/C22939",
+      "value": 2.2,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0603WAF200KT5E",
+      "href": "https://jlcpcb.com/partdetail/23704-0603WAF200KT5E/C22977",
+      "value": 2.0,
+      "size": "0603"
+    }
+  ],
+  "2400": [
+    {
+      "manufacturer": "0805W8F2401T5E",
+      "href": "https://jlcpcb.com/partdetail/18214-0805W8F2401T5E/C17526",
+      "value": 2400.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF2401T5E",
+      "href": "https://jlcpcb.com/partdetail/23667-0603WAF2401T5E/C22940",
+      "value": 2400.0,
+      "size": "0603"
+    }
+  ],
+  "200000": [
+    {
+      "manufacturer": "0805W8F2003T5E",
+      "href": "https://jlcpcb.com/partdetail/18227-0805W8F2003T5E/C17539",
+      "value": 200000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0402WGF2003TCE",
+      "href": "https://jlcpcb.com/partdetail/26507-0402WGF2003TCE/C25764",
+      "value": 200000.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0603WAF2003T5E",
+      "href": "https://jlcpcb.com/partdetail/26554-0603WAF2003T5E/C25811",
+      "value": 200000.0,
+      "size": "0603"
+    }
+  ],
+  "20": [
+    {
+      "manufacturer": "0805W8F200JT5E",
+      "href": "https://jlcpcb.com/partdetail/18232-0805W8F200JT5E/C17544",
+      "value": 20.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F200JT5E",
+      "href": "https://jlcpcb.com/partdetail/18643-1206W4F200JT5E/C17955",
+      "value": 20.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF200JT5E",
+      "href": "https://jlcpcb.com/partdetail/23677-0603WAF200JT5E/C22950",
+      "value": 20.0,
+      "size": "0603"
+    }
+  ],
+  "220000": [
+    {
+      "manufacturer": "0805W8F2203T5E",
+      "href": "https://jlcpcb.com/partdetail/18244-0805W8F2203T5E/C17556",
+      "value": 220000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF2203T5E",
+      "href": "https://jlcpcb.com/partdetail/23688-0603WAF2203T5E/C22961",
+      "value": 220000.0,
+      "size": "0603"
+    }
+  ],
+  "220": [
+    {
+      "manufacturer": "0805W8F2200T5E",
+      "href": "https://jlcpcb.com/partdetail/18245-0805W8F2200T5E/C17557",
+      "value": 220.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF2200T5E",
+      "href": "https://jlcpcb.com/partdetail/23689-0603WAF2200T5E/C22962",
+      "value": 220.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF2200TCE",
+      "href": "https://jlcpcb.com/partdetail/25834-0402WGF2200TCE/C25091",
+      "value": 220.0,
+      "size": "0402"
+    }
+  ],
+  "22000": [
+    {
+      "manufacturer": "0805W8F2202T5E",
+      "href": "https://jlcpcb.com/partdetail/18248-0805W8F2202T5E/C17560",
+      "value": 22000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0402WGF2202TCE",
+      "href": "https://jlcpcb.com/partdetail/26511-0402WGF2202TCE/C25768",
+      "value": 22000.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0603WAF2202T5E",
+      "href": "https://jlcpcb.com/partdetail/32812-0603WAF2202T5E/C31850",
+      "value": 22000.0,
+      "size": "0603"
+    }
+  ],
+  "22": [
+    {
+      "manufacturer": "0805W8F220JT5E",
+      "href": "https://jlcpcb.com/partdetail/18249-0805W8F220JT5E/C17561",
+      "value": 22.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F220JT5E",
+      "href": "https://jlcpcb.com/partdetail/18646-1206W4F220JT5E/C17958",
+      "value": 22.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF220JT5E",
+      "href": "https://jlcpcb.com/partdetail/24078-0603WAF220JT5E/C23345",
+      "value": 22.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF220JTCE",
+      "href": "https://jlcpcb.com/partdetail/25835-0402WGF220JTCE/C25092",
+      "value": 22.0,
+      "size": "0402"
+    }
+  ],
+  "24000": [
+    {
+      "manufacturer": "0805W8F2402T5E",
+      "href": "https://jlcpcb.com/partdetail/18263-0805W8F2402T5E/C17575",
+      "value": 24000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF2402T5E",
+      "href": "https://jlcpcb.com/partdetail/24085-0603WAF2402T5E/C23352",
+      "value": 24000.0,
+      "size": "0603"
+    }
+  ],
+  "27000": [
+    {
+      "manufacturer": "0805W8F2702T5E",
+      "href": "https://jlcpcb.com/partdetail/18281-0805W8F2702T5E/C17593",
+      "value": 27000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF2702T5E",
+      "href": "https://jlcpcb.com/partdetail/23694-0603WAF2702T5E/C22967",
+      "value": 27000.0,
+      "size": "0603"
+    }
+  ],
+  "3900": [
+    {
+      "manufacturer": "0805W8F3901T5E",
+      "href": "https://jlcpcb.com/partdetail/18302-0805W8F3901T5E/C17614",
+      "value": 3900.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF3901T5E",
+      "href": "https://jlcpcb.com/partdetail/23745-0603WAF3901T5E/C23018",
+      "value": 3900.0,
+      "size": "0603"
+    }
+  ],
+  "300": [
+    {
+      "manufacturer": "0805W8F3000T5E",
+      "href": "https://jlcpcb.com/partdetail/18305-0805W8F3000T5E/C17617",
+      "value": 300.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "1206W4F3000T5E",
+      "href": "https://jlcpcb.com/partdetail/18575-1206W4F3000T5E/C17887",
+      "value": 300.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF3000T5E",
+      "href": "https://jlcpcb.com/partdetail/23752-0603WAF3000T5E/C23025",
+      "value": 300.0,
+      "size": "0603"
+    }
+  ],
+  "30000": [
+    {
+      "manufacturer": "0805W8F3002T5E",
+      "href": "https://jlcpcb.com/partdetail/18309-0805W8F3002T5E/C17621",
+      "value": 30000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF3002T5E",
+      "href": "https://jlcpcb.com/partdetail/23711-0603WAF3002T5E/C22984",
+      "value": 30000.0,
+      "size": "0603"
+    }
+  ],
+  "330": [
+    {
+      "manufacturer": "0805W8F3300T5E",
+      "href": "https://jlcpcb.com/partdetail/18318-0805W8F3300T5E/C17630",
+      "value": 330.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF3300T5E",
+      "href": "https://jlcpcb.com/partdetail/23865-0603WAF3300T5E/C23138",
+      "value": 330.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF3300TCE",
+      "href": "https://jlcpcb.com/partdetail/25847-0402WGF3300TCE/C25104",
+      "value": 330.0,
+      "size": "0402"
+    }
+  ],
+  "33": [
+    {
+      "manufacturer": "0805W8F330JT5E",
+      "href": "https://jlcpcb.com/partdetail/18322-0805W8F330JT5E/C17634",
+      "value": 33.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF330JT5E",
+      "href": "https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140",
+      "value": 33.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF330JTCE",
+      "href": "https://jlcpcb.com/partdetail/25848-0402WGF330JTCE/C25105",
+      "value": 33.0,
+      "size": "0402"
+    }
+  ],
+  "390": [
+    {
+      "manufacturer": "0805W8F3900T5E",
+      "href": "https://jlcpcb.com/partdetail/18343-0805W8F3900T5E/C17655",
+      "value": 390.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF3900T5E",
+      "href": "https://jlcpcb.com/partdetail/23878-0603WAF3900T5E/C23151",
+      "value": 390.0,
+      "size": "0603"
+    }
+  ],
+  "4": [
+    {
+      "manufacturer": "0603WAF470KT5E",
+      "href": "https://jlcpcb.com/partdetail/23891-0603WAF470KT5E/C23164",
+      "value": 4.7,
+      "size": "0603"
+    }
+  ],
+  "470000": [
+    {
+      "manufacturer": "0805W8F4703T5E",
+      "href": "https://jlcpcb.com/partdetail/18397-0805W8F4703T5E/C17709",
+      "value": 470000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF4703T5E",
+      "href": "https://jlcpcb.com/partdetail/23905-0603WAF4703T5E/C23178",
+      "value": 470000.0,
+      "size": "0603"
+    }
+  ],
+  "470": [
+    {
+      "manufacturer": "0805W8F4700T5E",
+      "href": "https://jlcpcb.com/partdetail/18398-0805W8F4700T5E/C17710",
+      "value": 470.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF4700T5E",
+      "href": "https://jlcpcb.com/partdetail/23906-0603WAF4700T5E/C23179",
+      "value": 470.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF4700TCE",
+      "href": "https://jlcpcb.com/partdetail/25860-0402WGF4700TCE/C25117",
+      "value": 470.0,
+      "size": "0402"
+    }
+  ],
+  "47000": [
+    {
+      "manufacturer": "0805W8F4702T5E",
+      "href": "https://jlcpcb.com/partdetail/18401-0805W8F4702T5E/C17713",
+      "value": 47000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0402WGF4702TCE",
+      "href": "https://jlcpcb.com/partdetail/26535-0402WGF4702TCE/C25792",
+      "value": 47000.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0603WAF4702T5E",
+      "href": "https://jlcpcb.com/partdetail/26562-0603WAF4702T5E/C25819",
+      "value": 47000.0,
+      "size": "0603"
+    }
+  ],
+  "47": [
+    {
+      "manufacturer": "0805W8F470JT5E",
+      "href": "https://jlcpcb.com/partdetail/18402-0805W8F470JT5E/C17714",
+      "value": 47.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF470JT5E",
+      "href": "https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182",
+      "value": 47.0,
+      "size": "0603"
+    }
+  ],
+  "49": [
+    {
+      "manufacturer": "0402WGF499JTCE",
+      "href": "https://jlcpcb.com/partdetail/25863-0402WGF499JTCE/C25120",
+      "value": 49.9,
+      "size": "0402"
+    }
+  ],
+  "5": [
+    {
+      "manufacturer": "0603WAF510KT5E",
+      "href": "https://jlcpcb.com/partdetail/25940-0603WAF510KT5E/C25197",
+      "value": 5.1,
+      "size": "0603"
+    }
+  ],
+  "510": [
+    {
+      "manufacturer": "0805W8F5100T5E",
+      "href": "https://jlcpcb.com/partdetail/18422-0805W8F5100T5E/C17734",
+      "value": 510.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF5100T5E",
+      "href": "https://jlcpcb.com/partdetail/23920-0603WAF5100T5E/C23193",
+      "value": 510.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF5100TCE",
+      "href": "https://jlcpcb.com/partdetail/25866-0402WGF5100TCE/C25123",
+      "value": 510.0,
+      "size": "0402"
+    }
+  ],
+  "51000": [
+    {
+      "manufacturer": "0805W8F5102T5E",
+      "href": "https://jlcpcb.com/partdetail/18425-0805W8F5102T5E/C17737",
+      "value": 51000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF5102T5E",
+      "href": "https://jlcpcb.com/partdetail/23923-0603WAF5102T5E/C23196",
+      "value": 51000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF5102TCE",
+      "href": "https://jlcpcb.com/partdetail/26537-0402WGF5102TCE/C25794",
+      "value": 51000.0,
+      "size": "0402"
+    }
+  ],
+  "51": [
+    {
+      "manufacturer": "0805W8F510JT5E",
+      "href": "https://jlcpcb.com/partdetail/18426-0805W8F510JT5E/C17738",
+      "value": 51.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF510JT5E",
+      "href": "https://jlcpcb.com/partdetail/23924-0603WAF510JT5E/C23197",
+      "value": 51.0,
+      "size": "0603"
+    }
+  ],
+  "6800": [
+    {
+      "manufacturer": "0805W8F6801T5E",
+      "href": "https://jlcpcb.com/partdetail/18460-0805W8F6801T5E/C17772",
+      "value": 6800.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF6801T5E",
+      "href": "https://jlcpcb.com/partdetail/23939-0603WAF6801T5E/C23212",
+      "value": 6800.0,
+      "size": "0603"
+    }
+  ],
+  "680": [
+    {
+      "manufacturer": "0805W8F6800T5E",
+      "href": "https://jlcpcb.com/partdetail/18486-0805W8F6800T5E/C17798",
+      "value": 680.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF6800T5E",
+      "href": "https://jlcpcb.com/partdetail/23955-0603WAF6800T5E/C23228",
+      "value": 680.0,
+      "size": "0603"
+    }
+  ],
+  "68000": [
+    {
+      "manufacturer": "0805W8F6802T5E",
+      "href": "https://jlcpcb.com/partdetail/18489-0805W8F6802T5E/C17801",
+      "value": 68000.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF6802T5E",
+      "href": "https://jlcpcb.com/partdetail/23958-0603WAF6802T5E/C23231",
+      "value": 68000.0,
+      "size": "0603"
+    }
+  ],
+  "8200": [
+    {
+      "manufacturer": "0805W8F8201T5E",
+      "href": "https://jlcpcb.com/partdetail/18516-0805W8F8201T5E/C17828",
+      "value": 8200.0,
+      "size": "0805"
+    },
+    {
+      "manufacturer": "0603WAF8201T5E",
+      "href": "https://jlcpcb.com/partdetail/26724-0603WAF8201T5E/C25981",
+      "value": 8200.0,
+      "size": "0603"
+    }
+  ],
+  "100000": [
+    {
+      "manufacturer": "1206W4F1003T5E",
+      "href": "https://jlcpcb.com/partdetail/18588-1206W4F1003T5E/C17900",
+      "value": 100000.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0402WGF1003TCE",
+      "href": "https://jlcpcb.com/partdetail/26484-0402WGF1003TCE/C25741",
+      "value": 100000.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0603WAF1003T5E",
+      "href": "https://jlcpcb.com/partdetail/26546-0603WAF1003T5E/C25803",
+      "value": 100000.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F1003T5E",
+      "href": "https://jlcpcb.com/partdetail/160838-0805W8F1003T5E/C149504",
+      "value": 100000.0,
+      "size": "0805"
+    }
+  ],
+  "1": [
+    {
+      "manufacturer": "1206W4F100KT5E",
+      "href": "https://jlcpcb.com/partdetail/18616-1206W4F100KT5E/C17928",
+      "value": 1.0,
+      "size": "1206"
+    },
+    {
+      "manufacturer": "0603WAF100KT5E",
+      "href": "https://jlcpcb.com/partdetail/23663-0603WAF100KT5E/C22936",
+      "value": 1.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F100KT5E",
+      "href": "https://jlcpcb.com/partdetail/26014-0805W8F100KT5E/C25271",
+      "value": 1.0,
+      "size": "0805"
+    }
+  ],
+  "13000": [
+    {
+      "manufacturer": "0603WAF1302T5E",
+      "href": "https://jlcpcb.com/partdetail/23524-0603WAF1302T5E/C22797",
+      "value": 13000.0,
+      "size": "0603"
+    }
+  ],
+  "270": [
+    {
+      "manufacturer": "0603WAF2700T5E",
+      "href": "https://jlcpcb.com/partdetail/23693-0603WAF2700T5E/C22966",
+      "value": 270.0,
+      "size": "0603"
+    }
+  ],
+  "2000000": [
+    {
+      "manufacturer": "0603WAF2004T5E",
+      "href": "https://jlcpcb.com/partdetail/23703-0603WAF2004T5E/C22976",
+      "value": 2000000.0,
+      "size": "0603"
+    }
+  ],
+  "3300": [
+    {
+      "manufacturer": "0603WAF3301T5E",
+      "href": "https://jlcpcb.com/partdetail/23705-0603WAF3301T5E/C22978",
+      "value": 3300.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF3301TCE",
+      "href": "https://jlcpcb.com/partdetail/26633-0402WGF3301TCE/C25890",
+      "value": 3300.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0805W8F3301T5E",
+      "href": "https://jlcpcb.com/partdetail/26753-0805W8F3301T5E/C26010",
+      "value": 3300.0,
+      "size": "0805"
+    }
+  ],
+  "3600": [
+    {
+      "manufacturer": "0603WAF3601T5E",
+      "href": "https://jlcpcb.com/partdetail/23707-0603WAF3601T5E/C22980",
+      "value": 3600.0,
+      "size": "0603"
+    }
+  ],
+  "300000": [
+    {
+      "manufacturer": "0603WAF3003T5E",
+      "href": "https://jlcpcb.com/partdetail/23751-0603WAF3003T5E/C23024",
+      "value": 300000.0,
+      "size": "0603"
+    }
+  ],
+  "4990": [
+    {
+      "manufacturer": "0603WAF4991T5E",
+      "href": "https://jlcpcb.com/partdetail/23773-0603WAF4991T5E/C23046",
+      "value": 4990.0,
+      "size": "0603"
+    }
+  ],
+  "330000": [
+    {
+      "manufacturer": "0603WAF3303T5E",
+      "href": "https://jlcpcb.com/partdetail/23864-0603WAF3303T5E/C23137",
+      "value": 330000.0,
+      "size": "0603"
+    }
+  ],
+  "39000": [
+    {
+      "manufacturer": "0603WAF3902T5E",
+      "href": "https://jlcpcb.com/partdetail/23880-0603WAF3902T5E/C23153",
+      "value": 39000.0,
+      "size": "0603"
+    }
+  ],
+  "49900": [
+    {
+      "manufacturer": "0603WAF4992T5E",
+      "href": "https://jlcpcb.com/partdetail/23911-0603WAF4992T5E/C23184",
+      "value": 49900.0,
+      "size": "0603"
+    }
+  ],
+  "5100": [
+    {
+      "manufacturer": "0603WAF5101T5E",
+      "href": "https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186",
+      "value": 5100.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0402WGF5101TCE",
+      "href": "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905",
+      "value": 5100.0,
+      "size": "0402"
+    },
+    {
+      "manufacturer": "0805W8F5101T5E",
+      "href": "https://jlcpcb.com/partdetail/28584-0805W8F5101T5E/C27834",
+      "value": 5100.0,
+      "size": "0805"
+    }
+  ],
+  "510000": [
+    {
+      "manufacturer": "0603WAF5103T5E",
+      "href": "https://jlcpcb.com/partdetail/23919-0603WAF5103T5E/C23192",
+      "value": 510000.0,
+      "size": "0603"
+    }
+  ],
+  "560": [
+    {
+      "manufacturer": "0603WAF5600T5E",
+      "href": "https://jlcpcb.com/partdetail/23931-0603WAF5600T5E/C23204",
+      "value": 560.0,
+      "size": "0603"
+    },
+    {
+      "manufacturer": "0805W8F5600T5E",
+      "href": "https://jlcpcb.com/partdetail/29388-0805W8F5600T5E/C28636",
+      "value": 560.0,
+      "size": "0805"
+    }
+  ],
+  "56000": [
+    {
+      "manufacturer": "0603WAF5602T5E",
+      "href": "https://jlcpcb.com/partdetail/23933-0603WAF5602T5E/C23206",
+      "value": 56000.0,
+      "size": "0603"
+    }
+  ],
+  "7500": [
+    {
+      "manufacturer": "0603WAF7501T5E",
+      "href": "https://jlcpcb.com/partdetail/23961-0603WAF7501T5E/C23234",
+      "value": 7500.0,
+      "size": "0603"
+    }
+  ],
+  "75000": [
+    {
+      "manufacturer": "0603WAF7502T5E",
+      "href": "https://jlcpcb.com/partdetail/23969-0603WAF7502T5E/C23242",
+      "value": 75000.0,
+      "size": "0603"
+    }
+  ],
+  "820": [
+    {
+      "manufacturer": "0603WAF8200T5E",
+      "href": "https://jlcpcb.com/partdetail/23980-0603WAF8200T5E/C23253",
+      "value": 820.0,
+      "size": "0603"
+    }
+  ],
+  "82000": [
+    {
+      "manufacturer": "0603WAF8202T5E",
+      "href": "https://jlcpcb.com/partdetail/23981-0603WAF8202T5E/C23254",
+      "value": 82000.0,
+      "size": "0603"
+    }
+  ],
+  "9100": [
+    {
+      "manufacturer": "0603WAF9101T5E",
+      "href": "https://jlcpcb.com/partdetail/23987-0603WAF9101T5E/C23260",
+      "value": 9100.0,
+      "size": "0603"
+    }
+  ],
+  "120000": [
+    {
+      "manufacturer": "0603WAF1203T5E",
+      "href": "https://jlcpcb.com/partdetail/26551-0603WAF1203T5E/C25808",
+      "value": 120000.0,
+      "size": "0603"
+    }
+  ],
+  "18000": [
+    {
+      "manufacturer": "0603WAF1802T5E",
+      "href": "https://jlcpcb.com/partdetail/26553-0603WAF1802T5E/C25810",
+      "value": 18000.0,
+      "size": "0603"
+    }
+  ]
+}

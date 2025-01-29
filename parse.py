@@ -29,13 +29,42 @@ for resistor in data:
         value = float(value) / 1000
     else:
         value = float(value)
+
+    size = "0603"
+    if "0603" in resistor["col5"]:
+        size = "0603"
+    elif "0805" in resistor["col5"]:
+        size = "0805"
+    elif "1206" in resistor["col5"]:
+        size = "1206"
+    elif "0402" in resistor["col5"]:
+        size = "0402"
+    elif "0201" in resistor["col5"]:
+        size = "0201"
+    elif "2512" in resistor["col5"]:
+        size = "2512"
+    elif "1210" in resistor["col5"]:
+        size = "1210"
+    elif "2010" in resistor["col5"]:
+        size = "2010"
+    elif "2512" in resistor["col5"]:
+        size = "2512"
+
     resistors.append(
         {
             "manufacturer": manufacturer,
             "href": resistor["href"],
             "value": value,
+            "size": size,
         }
     )
 
-with open("resistors.json", "w") as f:
-    json.dump(resistors, f, indent=2)
+# coalesce resistors by value
+resistors_by_value = {}
+for resistor in resistors:
+    if resistor["value"] not in resistors_by_value:
+        resistors_by_value[int(resistor["value"])] = []
+    resistors_by_value[int(resistor["value"])].append(resistor)
+
+with open("resistors_by_value.json", "w") as f:
+    json.dump(resistors_by_value, f, indent=2)
